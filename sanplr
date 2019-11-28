@@ -1,0 +1,2 @@
+create trigger get_serial
+after insert on eac
